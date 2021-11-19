@@ -24,7 +24,7 @@ Copyright 2012 Andreas Schildbach
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <android.version>2.1_r1</android.version>
+        <android.version>2.3.3</android.version>
         <android.support-v4.version>r7</android.support-v4.version>
     </properties>
 
